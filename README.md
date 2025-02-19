@@ -57,4 +57,5 @@ Run the Python script and enter the path to the audio file when prompted.
 The script will output the transcription of the audio.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/5b27afcc-bc59-49df-899c-d3dc7b59ac09)
 
