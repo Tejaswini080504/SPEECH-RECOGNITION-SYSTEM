@@ -13,9 +13,10 @@
 *MENTOR*: NEELA SANTOSH
 
 # DESCRIPTION
-tHE code is designed to transcribe speech from an audio file (in various formats) into text.
-It performs the following steps:
+EDITOR PLATFORM: VS CODE
 
+The code is designed to transcribe speech from an audio file (in various formats) into text.
+It performs the following steps:
 Load and Convert Audio File:
 The code uses pydub to load audio files in different formats and converts them to WAV format, which is necessary for speech recognition.
 
